@@ -54,6 +54,6 @@ public class GetRequest02 {
         Assert.assertFalse(response.asString().contains("Alaettin"));
 
         //response body is json here. first convert it as String and you can use contain method belongs to string methods
-
+        //
     }
 }
